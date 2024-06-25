@@ -1,0 +1,1 @@
+Powershell.exe -F ./venv/Scrips/Activate.ps1
